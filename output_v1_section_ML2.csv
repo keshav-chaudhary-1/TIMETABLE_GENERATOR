@@ -1,0 +1,23 @@
+Day,Period,Time,SubjectCode,SubjectName,Teachers,Room
+Thu,5,1:00-1:55,ABC-101,DS,Dr. Deepak Asrani,LT-1
+Wed,0,8:00-8:55,ABC-101,DS,Dr. Deepak Asrani,LT-2
+Sat,1,9:00-9:55,ABC-101,DS,Dr. Deepak Asrani,LT-5
+Thu,4,12:05-1:00,ABC-101,DS,Dr. Deepak Asrani,LT-5
+Thu,3,11:10-12:05,TCS-408,Programming in Java,Dr. Vikas Tripathi,LT-8
+Thu,6,1:55-2:50,TCS-408,Programming in Java,Dr. Vikas Tripathi,LT-6
+Fri,5,1:00-1:55,TCS-408,Programming in Java,Dr. Vikas Tripathi,LT-5
+Sat,5,1:00-1:55,TCS-408,Programming in Java,Dr. Vikas Tripathi,LT-8
+Mon,3,11:10-12:05,TCS-402,Finite Automata and Formal Languages,Dr. Sribidhya Mohanty,LT-2
+Sat,3,11:10-12:05,TCS-402,Finite Automata and Formal Languages,Dr. Sribidhya Mohanty,LT-8
+Wed,7,3:10-4:05,TCS-402,Finite Automata and Formal Languages,Dr. Sribidhya Mohanty,LT-1
+Thu,2,9:55-10:50,TCS-402,Finite Automata and Formal Languages,Dr. Sribidhya Mohanty,LT-6
+Wed,5,1:00-1:55,TCS-403,Microprocessors,Dr. Hradesh Kumar,LT-5
+Wed,1,9:00-9:55,TCS-403,Microprocessors,Dr. Hradesh Kumar,LT-5
+Mon,6,1:55-2:50,TCS-403,Microprocessors,Dr. Hradesh Kumar,LT-6
+Fri,6,1:55-2:50,TCS-403,Microprocessors,Dr. Hradesh Kumar,LT-6
+Mon,2,9:55-10:50,TCS-409,Design and Analysis of Algorithms,Dr. Hradesh Kumar,Lab-2
+Sat,0,8:00-8:55,TCS-409,Design and Analysis of Algorithms,Dr. Hradesh Kumar,Lab-1
+Tue,2,9:55-10:50,PCS-409,DAA Lab,Dr. Deepak Asrani,Lab-1
+Mon,4,12:05-1:00,PCS-409,DAA Lab,Dr. Deepak Asrani,Lab-1
+Sat,2,9:55-10:50,PCS-408,Java Lab,Dr. Sribidhya Mohanty,Lab-2
+Tue,1,9:00-9:55,PCS-408,Java Lab,Dr. Sribidhya Mohanty,Lab-5

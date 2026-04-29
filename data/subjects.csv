@@ -1,0 +1,59 @@
+id,code,name,hours_per_week,requires_lab,section,teacher_ids,lab_teacher_ids
+0,TCS-408,Programming in Java,4,0,A,0,29|30
+1,TCS-402,Finite Automata and Formal Languages,4,0,A,4,
+2,TCS-403,Microprocessors,4,0,A,7,28
+3,TCS-409,Design and Analysis of Algorithms,4,0,A,15,16|33
+4,PCS-409,DAA Lab,2,1,A,16|33,,
+5,PCS-408,Java Lab,2,1,A,29|30,,
+6,PCS-403,Microprocessors Lab,2,1,A,28,,
+7,TCS-408,Programming in Java,4,0,B,1,1|31
+8,TCS-402,Finite Automata and Formal Languages,4,0,B,4,
+9,TCS-403,Microprocessors,4,0,B,8,8
+10,TCS-409,Design and Analysis of Algorithms,4,0,B,15,16|34
+11,PCS-409,DAA Lab,2,1,B,16|34,,
+12,PCS-408,Java Lab,2,1,B,1|31,,
+13,PCS-403,Microprocessors Lab,2,1,B,8,,
+14,TCS-408,Programming in Java,4,0,C,2,2|35
+15,TCS-402,Finite Automata and Formal Languages,4,0,C,5,
+16,TCS-403,Microprocessors,4,0,C,8,28
+17,TCS-409,Design and Analysis of Algorithms,4,0,C,16,32|0
+18,PCS-409,DAA Lab,2,1,C,32|0,,
+19,PCS-408,Java Lab,2,1,C,2|35,,
+20,PCS-403,Microprocessors Lab,2,1,C,28,,
+21,TCS-408,Programming in Java,4,0,D,2,2|30
+22,TCS-402,Finite Automata and Formal Languages,4,0,D,5,
+23,TCS-403,Microprocessors,4,0,D,9,28
+24,TCS-409,Design and Analysis of Algorithms,4,0,D,16,32|34
+25,PCS-409,DAA Lab,2,1,D,32|34,,
+26,PCS-408,Java Lab,2,1,D,2|30,,
+27,PCS-403,Microprocessors Lab,2,1,D,28,,
+28,TCS-408,Programming in Java,4,0,E,3,3|36
+29,TCS-402,Finite Automata and Formal Languages,4,0,E,5,
+30,TCS-403,Microprocessors,4,0,E,9,9
+31,TCS-409,Design and Analysis of Algorithms,4,0,E,17,17|37
+32,PCS-409,DAA Lab,2,1,E,17|37,,
+33,PCS-408,Java Lab,2,1,E,3|36,,
+34,PCS-403,Microprocessors Lab,2,1,E,9,,
+35,TCS-408,Programming in Java,4,0,F,3,42|43
+36,TCS-402,Finite Automata and Formal Languages,4,0,F,6,
+37,TCS-403,Microprocessors,4,0,F,10,10
+38,TCS-409,Design and Analysis of Algorithms,4,0,F,17,17|37
+39,PCS-409,DAA Lab,2,1,F,17|37,,
+40,PCS-408,Java Lab,2,1,F,42|43,,
+41,PCS-403,Microprocessors Lab,2,1,F,10,,
+42,TCS-408,Programming in Java,4,0,ML1,1,1|40
+43,TCS-402,Finite Automata and Formal Languages,4,0,ML1,5,
+44,TCS-403,Microprocessors,4,0,ML1,11,9
+45,TCS-409,Design and Analysis of Algorithms,4,0,ML1,17,38|39
+46,PCS-409,DAA Lab,2,1,ML1,38|39,,
+47,PCS-408,Java Lab,2,1,ML1,1|40,,
+48,PCS-403,Microprocessors Lab,2,1,ML1,9,,
+49,XCS-202,DSA,2,0,ML1,21,,
+50,ABC-101,DS,4,1,ML1,36,,
+50,TCS-408,Programming in Java,4,0,ML2,13,
+51,TCS-402,Finite Automata and Formal Languages,4,0,ML2,5,
+52,TCS-403,Microprocessors,4,0,ML2,12,
+53,TCS-409,Design and Analysis of Algorithms,4,0,ML2,14,
+54,PCS-409,DAA Lab,2,1,ML2,14,,
+55,PCS-408,Java Lab,2,1,ML2,13,,
+56,PCS-403,Microprocessors Lab,2,1,ML2,12,,

@@ -1,0 +1,23 @@
+Day,Period,Time,SubjectCode,SubjectName,Teachers,Room
+Mon,6,1:55-2:50,TCS-408,Programming in Java,Dr. Amit Kumar,LT-5
+Tue,2,9:55-10:50,TCS-408,Programming in Java,Dr. Amit Kumar,LT-6
+Mon,5,1:00-1:55,TCS-408,Programming in Java,Dr. Amit Kumar,LT-5
+Fri,1,9:00-9:55,TCS-408,Programming in Java,Dr. Amit Kumar,LT-2
+Tue,4,12:05-1:00,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-5
+Tue,5,1:00-1:55,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-5
+Thu,6,1:55-2:50,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-5
+Thu,0,8:00-8:55,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-5
+Tue,6,1:55-2:50,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-5
+Fri,5,1:00-1:55,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-2
+Wed,4,12:05-1:00,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-5
+Sat,4,12:05-1:00,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-1
+Mon,1,9:00-9:55,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-6
+Sat,5,1:00-1:55,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-2
+Wed,0,8:00-8:55,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-1
+Mon,4,12:05-1:00,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-5
+Thu,2,9:55-10:50,PCS-409,DAA Lab,Ms. Meenakshi Maindola & Ms. Isha Deshmukh,Lab-5
+Tue,3,11:10-12:05,PCS-409,DAA Lab,Ms. Meenakshi Maindola & Ms. Isha Deshmukh,Lab-1
+Sat,6,1:55-2:50,PCS-408,Java Lab,Dr. Vidit & Mr. Navneet,Lab-2
+Thu,4,12:05-1:00,PCS-408,Java Lab,Dr. Vidit & Mr. Navneet,Lab-1
+Wed,5,1:00-1:55,PCS-403,Microprocessors Lab,Dr. Mridul Gupta,Lab-2
+Fri,0,8:00-8:55,PCS-403,Microprocessors Lab,Dr. Mridul Gupta,Lab-2

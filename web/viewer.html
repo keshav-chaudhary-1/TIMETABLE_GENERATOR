@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Timetable Viewer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="page-viewer" data-page="viewer">
+    <div class="page-shell">
+      <header class="topbar viewer-topbar">
+        <div>
+          <a href="dashboard.html" class="back-link">← Back to Home</a>
+          <p id="viewerKicker" class="brand-kicker">Timetable Viewer</p>
+          <h1 id="viewerTitle">Loading timetable...</h1>
+        </div>
+        <div class="topbar-actions">
+          <div class="session-panel">
+            <span id="sessionRole" class="status-pill">Role</span>
+            <span id="sessionUser" class="session-user">Signed in</span>
+          </div>
+          <span id="versionPill" class="status-pill">Version --</span>
+          <button id="refreshViewerBtn" class="secondary-button">Reload Data</button>
+          <button id="logoutBtn" class="secondary-button danger-button">Logout</button>
+        </div>
+      </header>
+
+      <section class="viewer-controls">
+        <div class="control-group">
+          <label for="entitySelect">Select view item</label>
+          <select id="entitySelect"></select>
+        </div>
+        <!-- <div class="viewer-note">
+          Choose a section, teacher, or room to view the latest timetable exported
+          from the C++ scheduler.
+        </div> -->
+      </section>
+
+      <section class="table-card">
+        <div class="table-card-head">
+          <div>
+            <p class="eyebrow">Live timetable grid</p>
+            <h2 id="tableTitle">Preparing schedule...</h2>
+          </div>
+          <div id="entryCount" class="entry-count">0 entries</div>
+        </div>
+
+        <div class="table-wrap">
+          <table id="timetableTable" class="timetable-table">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <script src="auth.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

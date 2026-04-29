@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Timetable Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="page-dashboard" data-page="dashboard">
+    <div class="page-shell">
+      <header class="topbar">
+        <div>
+          <p class="brand-kicker">Graphic Era Deemed to be University</p>
+          <h1>Timetable Control Center</h1>
+        </div>
+        <div class="topbar-actions">
+          <div class="session-panel">
+            <span id="sessionRole" class="status-pill">Role</span>
+            <span id="sessionUser" class="session-user">Signed in</span>
+          </div>
+          <button id="regenerateBtn" class="secondary-button">Reload Export Files</button>
+          <button id="logoutBtn" class="secondary-button danger-button">Logout</button>
+        </div>
+      </header>
+
+      <section class="hero-panel">
+        <div class="hero-copy">
+          <span class="eyebrow">Live academic view</span>
+          <h2>Choose the timetable format you want to explore.</h2>
+          <p>
+            Open the exported schedule through section-wise, teacher-wise, and
+            room-wise views from one connected dashboard.
+          </p>
+        </div>
+
+        <div id="summaryStats" class="stats-grid">
+          <article class="stat-card loading-card">Loading summary...</article>
+        </div>
+      </section>
+
+      <section class="cards-section">
+        <button class="mode-card mode-section" data-target="section">
+          <span class="card-badge">Student View</span>
+          <h3>Section Wise Timetable</h3>
+          <p>Open timetable grids for every section with subject, teacher, and room details.</p>
+          <span class="card-link">Explore sections</span>
+        </button>
+
+        <button class="mode-card mode-teacher" data-target="teacher">
+          <span class="card-badge">Faculty View</span>
+          <h3>Teacher Wise Timetable</h3>
+          <p>Track teaching load, daily sequence, and room allocation for each faculty member.</p>
+          <span class="card-link">Explore teachers</span>
+        </button>
+
+        <button class="mode-card mode-room" data-target="room">
+          <span class="card-badge">Infrastructure View</span>
+          <h3>Room Wise Timetable</h3>
+          <p>Inspect room occupancy across classrooms and labs from one clean interface.</p>
+          <span class="card-link">Explore rooms</span>
+        </button>
+      </section>
+    </div>
+
+    <script src="auth.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
