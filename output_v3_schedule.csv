@@ -1,0 +1,177 @@
+Slot,Day,Period,Time,Section,SubjectCode,SubjectName,Teachers,Room,IsLab
+Fri-P2,4,1,9:00-9:55,A,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1,0
+Wed-P5,2,4,12:05-1:00,A,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1,0
+Thu-P1,3,0,8:00-8:55,A,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1,0
+Mon-P2,0,1,9:00-9:55,A,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1,0
+Sat-P5,5,4,12:05-1:00,A,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1,0
+Fri-P4,4,3,11:10-12:05,A,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1,0
+Sat-P6,5,5,1:00-1:55,A,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1,0
+Thu-P7,3,6,1:55-2:50,A,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1,0
+Fri-P7,4,6,1:55-2:50,A,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1,0
+Thu-P6,3,5,1:00-1:55,A,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1,0
+Mon-P8,0,7,3:10-4:05,A,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1,0
+Sat-P8,5,7,3:10-4:05,A,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1,0
+Wed-P4,2,3,11:10-12:05,A,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Mon-P3,0,2,9:55-10:50,A,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Sat-P7,5,6,1:55-2:50,A,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Thu-P3,3,2,9:55-10:50,A,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Tue-P4,1,3,11:10-12:05,A,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Sachin Bhatt,Lab-1,1
+Tue-P1,1,0,8:00-8:55,A,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Sachin Bhatt,Lab-1,1
+Wed-P1,2,0,8:00-8:55,A,PCS-408,Java Lab,Dr. Rehan & Mr. Abhishek Singh Chauhan,Lab-1,1
+Wed-P3,2,2,9:55-10:50,A,PCS-408,Java Lab,Dr. Rehan & Mr. Abhishek Singh Chauhan,Lab-1,1
+Fri-P5,4,4,12:05-1:00,A,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1,1
+Wed-P7,2,6,1:55-2:50,A,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1,1
+Wed-P1,2,0,8:00-8:55,B,TCS-408,Programming in Java,Mr. Kireet Joshi,LT-1,0
+Thu-P4,3,3,11:10-12:05,B,TCS-408,Programming in Java,Mr. Kireet Joshi,LT-1,0
+Wed-P6,2,5,1:00-1:55,B,TCS-408,Programming in Java,Mr. Kireet Joshi,LT-1,0
+Fri-P3,4,2,9:55-10:50,B,TCS-408,Programming in Java,Mr. Kireet Joshi,LT-1,0
+Fri-P2,4,1,9:00-9:55,B,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-2,0
+Sat-P2,5,1,9:00-9:55,B,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-2,0
+Fri-P6,4,5,1:00-1:55,B,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1,0
+Tue-P3,1,2,9:55-10:50,B,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-2,0
+Tue-P8,1,7,3:10-4:05,B,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-1,0
+Thu-P6,3,5,1:00-1:55,B,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-2,0
+Sat-P4,5,3,11:10-12:05,B,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-2,0
+Tue-P5,1,4,12:05-1:00,B,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-2,0
+Mon-P4,0,3,11:10-12:05,B,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Fri-P1,4,0,8:00-8:55,B,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Thu-P5,3,4,12:05-1:00,B,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Mon-P6,0,5,1:00-1:55,B,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1,0
+Sat-P6,5,5,1:00-1:55,B,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Ramji Chauhan,Lab-1,1
+Wed-P4,2,3,11:10-12:05,B,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Ramji Chauhan,Lab-1,1
+Wed-P5,2,4,12:05-1:00,B,PCS-408,Java Lab,Mr. Kireet Joshi & Ms. Srishty Varshney,Lab-1,1
+Thu-P3,3,2,9:55-10:50,B,PCS-408,Java Lab,Mr. Kireet Joshi & Ms. Srishty Varshney,Lab-1,1
+Wed-P2,2,1,9:00-9:55,B,PCS-403,Microprocessors Lab,Dr. Abhay Sharma,Lab-2,1
+Mon-P1,0,0,8:00-8:55,B,PCS-403,Microprocessors Lab,Dr. Abhay Sharma,Lab-1,1
+Tue-P7,1,6,1:55-2:50,C,TCS-408,Programming in Java,Dr. Jyoti Agarwal,LT-2,0
+Fri-P8,4,7,3:10-4:05,C,TCS-408,Programming in Java,Dr. Jyoti Agarwal,LT-1,0
+Wed-P8,2,7,3:10-4:05,C,TCS-408,Programming in Java,Dr. Jyoti Agarwal,LT-1,0
+Tue-P2,1,1,9:00-9:55,C,TCS-408,Programming in Java,Dr. Jyoti Agarwal,LT-1,0
+Tue-P4,1,3,11:10-12:05,C,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-5,0
+Tue-P5,1,4,12:05-1:00,C,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-1,0
+Sat-P3,5,2,9:55-10:50,C,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-1,0
+Mon-P7,0,6,1:55-2:50,C,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-1,0
+Sat-P2,5,1,9:00-9:55,C,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-1,0
+Mon-P6,0,5,1:00-1:55,C,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-2,0
+Mon-P5,0,4,12:05-1:00,C,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-2,0
+Thu-P2,3,1,9:00-9:55,C,TCS-403,Microprocessors,Dr. Abhay Sharma,LT-5,0
+Sat-P1,5,0,8:00-8:55,C,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-1,0
+Thu-P8,3,7,3:10-4:05,C,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-1,0
+Fri-P4,4,3,11:10-12:05,C,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-5,0
+Thu-P4,3,3,11:10-12:05,C,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-5,0
+Wed-P2,2,1,9:00-9:55,C,PCS-409,DAA Lab,Ms. Anamika Sharma & Dr. D.R. Gangodkar,Lab-1,1
+Wed-P1,2,0,8:00-8:55,C,PCS-409,DAA Lab,Ms. Anamika Sharma & Dr. D.R. Gangodkar,Lab-2,1
+Thu-P1,3,0,8:00-8:55,C,PCS-408,Java Lab,Dr. Jyoti Agarwal & Ms. Ayushi,Lab-2,1
+Thu-P6,3,5,1:00-1:55,C,PCS-408,Java Lab,Dr. Jyoti Agarwal & Ms. Ayushi,Lab-1,1
+Thu-P7,3,6,1:55-2:50,C,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1,1
+Mon-P3,0,2,9:55-10:50,C,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1,1
+Wed-P7,2,6,1:55-2:50,D,TCS-408,Programming in Java,Dr. Jyoti Agarwal,LT-1,0
+Mon-P5,0,4,12:05-1:00,D,TCS-408,Programming in Java,Dr. Jyoti Agarwal,LT-1,0
+Tue-P3,1,2,9:55-10:50,D,TCS-408,Programming in Java,Dr. Jyoti Agarwal,Lab-1,0
+Mon-P1,0,0,8:00-8:55,D,TCS-408,Programming in Java,Dr. Jyoti Agarwal,LT-1,0
+Sat-P6,5,5,1:00-1:55,D,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-2,0
+Tue-P1,1,0,8:00-8:55,D,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-5,0
+Sat-P7,5,6,1:55-2:50,D,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-5,0
+Wed-P2,2,1,9:00-9:55,D,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-1,0
+Fri-P6,4,5,1:00-1:55,D,TCS-403,Microprocessors,Dr. Gourav Verma,LT-2,0
+Wed-P3,2,2,9:55-10:50,D,TCS-403,Microprocessors,Dr. Gourav Verma,LT-1,0
+Mon-P4,0,3,11:10-12:05,D,TCS-403,Microprocessors,Dr. Gourav Verma,LT-2,0
+Wed-P5,2,4,12:05-1:00,D,TCS-403,Microprocessors,Dr. Gourav Verma,LT-5,0
+Sat-P4,5,3,11:10-12:05,D,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-1,0
+Tue-P6,1,5,1:00-1:55,D,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-2,0
+Fri-P5,4,4,12:05-1:00,D,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-2,0
+Sat-P3,5,2,9:55-10:50,D,TCS-409,Design and Analysis of Algorithms,Dr. Siddhant Thapliyal,LT-2,0
+Sat-P5,5,4,12:05-1:00,D,PCS-409,DAA Lab,Ms. Anamika Sharma & Mr. Ramji Chauhan,Lab-1,1
+Sat-P1,5,0,8:00-8:55,D,PCS-409,DAA Lab,Ms. Anamika Sharma & Mr. Ramji Chauhan,Lab-1,1
+Mon-P2,0,1,9:00-9:55,D,PCS-408,Java Lab,Dr. Jyoti Agarwal & Mr. Abhishek Singh Chauhan,Lab-1,1
+Tue-P5,1,4,12:05-1:00,D,PCS-408,Java Lab,Dr. Jyoti Agarwal & Mr. Abhishek Singh Chauhan,Lab-1,1
+Mon-P7,0,6,1:55-2:50,D,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1,1
+Thu-P5,3,4,12:05-1:00,D,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1,1
+Mon-P7,0,6,1:55-2:50,E,TCS-408,Programming in Java,Dr. Amit Kumar,LT-2,0
+Mon-P4,0,3,11:10-12:05,E,TCS-408,Programming in Java,Dr. Amit Kumar,Lab-1,0
+Fri-P4,4,3,11:10-12:05,E,TCS-408,Programming in Java,Dr. Amit Kumar,Lab-1,0
+Fri-P5,4,4,12:05-1:00,E,TCS-408,Programming in Java,Dr. Amit Kumar,LT-5,0
+Fri-P1,4,0,8:00-8:55,E,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-2,0
+Thu-P1,3,0,8:00-8:55,E,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,Lab-1,0
+Thu-P2,3,1,9:00-9:55,E,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-1,0
+Tue-P2,1,1,9:00-9:55,E,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-2,0
+Sat-P5,5,4,12:05-1:00,E,TCS-403,Microprocessors,Dr. Gourav Verma,LT-2,0
+Sat-P1,5,0,8:00-8:55,E,TCS-403,Microprocessors,Dr. Gourav Verma,LT-2,0
+Wed-P1,2,0,8:00-8:55,E,TCS-403,Microprocessors,Dr. Gourav Verma,LT-2,0
+Tue-P1,1,0,8:00-8:55,E,TCS-403,Microprocessors,Dr. Gourav Verma,LT-1,0
+Tue-P6,1,5,1:00-1:55,E,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-1,0
+Wed-P7,2,6,1:55-2:50,E,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-5,0
+Tue-P4,1,3,11:10-12:05,E,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-1,0
+Mon-P1,0,0,8:00-8:55,E,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-2,0
+Fri-P2,4,1,9:00-9:55,E,PCS-409,DAA Lab,Ms. Meenakshi Maindola & Ms. Isha Deshmukh,Lab-1,1
+Sat-P8,5,7,3:10-4:05,E,PCS-409,DAA Lab,Ms. Meenakshi Maindola & Ms. Isha Deshmukh,Lab-1,1
+Mon-P5,0,4,12:05-1:00,E,PCS-408,Java Lab,Dr. Amit Kumar & Ms. Simran,Lab-1,1
+Sat-P3,5,2,9:55-10:50,E,PCS-408,Java Lab,Dr. Amit Kumar & Ms. Simran,Lab-1,1
+Tue-P3,1,2,9:55-10:50,E,PCS-403,Microprocessors Lab,Dr. Gourav Verma,LT-1,1
+Thu-P4,3,3,11:10-12:05,E,PCS-403,Microprocessors Lab,Dr. Gourav Verma,Lab-1,1
+Tue-P1,1,0,8:00-8:55,F,TCS-408,Programming in Java,Dr. Amit Kumar,LT-2,0
+Tue-P7,1,6,1:55-2:50,F,TCS-408,Programming in Java,Dr. Amit Kumar,LT-5,0
+Fri-P7,4,6,1:55-2:50,F,TCS-408,Programming in Java,Dr. Amit Kumar,LT-2,0
+Wed-P7,2,6,1:55-2:50,F,TCS-408,Programming in Java,Dr. Amit Kumar,Lab-2,0
+Wed-P5,2,4,12:05-1:00,F,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-2,0
+Fri-P4,4,3,11:10-12:05,F,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-2,0
+Thu-P1,3,0,8:00-8:55,F,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-2,0
+Thu-P3,3,2,9:55-10:50,F,TCS-402,Finite Automata and Formal Languages,Dr. Piyush Agarwal,LT-2,0
+Mon-P3,0,2,9:55-10:50,F,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-2,0
+Mon-P2,0,1,9:00-9:55,F,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-5,0
+Thu-P5,3,4,12:05-1:00,F,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-2,0
+Thu-P7,3,6,1:55-2:50,F,TCS-403,Microprocessors,Dr. Mridul Gupta,LT-2,0
+Thu-P4,3,3,11:10-12:05,F,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-2,0
+Sat-P2,5,1,9:00-9:55,F,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,Lab-1,0
+Wed-P2,2,1,9:00-9:55,F,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-2,0
+Sat-P7,5,6,1:55-2:50,F,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,Lab-1,0
+Sat-P4,5,3,11:10-12:05,F,PCS-409,DAA Lab,Ms. Meenakshi Maindola & Ms. Isha Deshmukh,Lab-1,1
+Mon-P4,0,3,11:10-12:05,F,PCS-409,DAA Lab,Ms. Meenakshi Maindola & Ms. Isha Deshmukh,Lab-2,1
+Tue-P6,1,5,1:00-1:55,F,PCS-408,Java Lab,Dr. Vidit & Mr. Navneet,Lab-1,1
+Wed-P6,2,5,1:00-1:55,F,PCS-408,Java Lab,Dr. Vidit & Mr. Navneet,Lab-1,1
+Fri-P3,4,2,9:55-10:50,F,PCS-403,Microprocessors Lab,Dr. Mridul Gupta,Lab-1,1
+Fri-P2,4,1,9:00-9:55,F,PCS-403,Microprocessors Lab,Dr. Mridul Gupta,Lab-2,1
+Mon-P5,0,4,12:05-1:00,ML1,TCS-408,Programming in Java,Mr. Kireet Joshi,LT-5,0
+Wed-P3,2,2,9:55-10:50,ML1,TCS-408,Programming in Java,Mr. Kireet Joshi,LT-2,0
+Tue-P7,1,6,1:55-2:50,ML1,TCS-408,Programming in Java,Mr. Kireet Joshi,LT-1,0
+Mon-P6,0,5,1:00-1:55,ML1,TCS-408,Programming in Java,Mr. Kireet Joshi,Lab-1,0
+Thu-P7,3,6,1:55-2:50,ML1,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-5,0
+Fri-P6,4,5,1:00-1:55,ML1,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,Lab-2,0
+Sat-P1,5,0,8:00-8:55,ML1,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-5,0
+Mon-P2,0,1,9:00-9:55,ML1,TCS-402,Finite Automata and Formal Languages,Dr. Vikas Tripathi,LT-2,0
+Wed-P1,2,0,8:00-8:55,ML1,TCS-403,Microprocessors,Dr. Pradeep Juneja,LT-5,0
+Wed-P4,2,3,11:10-12:05,ML1,TCS-403,Microprocessors,Dr. Pradeep Juneja,LT-2,0
+Sat-P4,5,3,11:10-12:05,ML1,TCS-403,Microprocessors,Dr. Pradeep Juneja,LT-5,0
+Mon-P1,0,0,8:00-8:55,ML1,TCS-403,Microprocessors,Dr. Pradeep Juneja,LT-5,0
+Fri-P5,4,4,12:05-1:00,ML1,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-1,0
+Thu-P2,3,1,9:00-9:55,ML1,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-2,0
+Wed-P6,2,5,1:00-1:55,ML1,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,LT-5,0
+Thu-P5,3,4,12:05-1:00,ML1,TCS-409,Design and Analysis of Algorithms,Ms. Meenakshi Maindola,Lab-2,0
+Sat-P6,5,5,1:00-1:55,ML1,PCS-409,DAA Lab,Mr. Kuldeep Nautiyal & Mr. Priyanshu Rawat,Lab-2,1
+Mon-P3,0,2,9:55-10:50,ML1,PCS-409,DAA Lab,Mr. Kuldeep Nautiyal & Mr. Priyanshu Rawat,Lab-2,1
+Fri-P1,4,0,8:00-8:55,ML1,PCS-408,Java Lab,Mr. Kireet Joshi & Mr. Akash Chaudhary,Lab-1,1
+Tue-P4,1,3,11:10-12:05,ML1,PCS-408,Java Lab,Mr. Kireet Joshi & Mr. Akash Chaudhary,Lab-2,1
+Tue-P5,1,4,12:05-1:00,ML1,PCS-403,Microprocessors Lab,Dr. Gourav Verma,Lab-2,1
+Fri-P7,4,6,1:55-2:50,ML1,PCS-403,Microprocessors Lab,Dr. Gourav Verma,Lab-1,1
+Tue-P4,1,3,11:10-12:05,ML2,TCS-402,Finite Automata and Formal Languages,Dr. Deepak Asrani,LT-2,0
+Sat-P7,5,6,1:55-2:50,ML2,TCS-402,Finite Automata and Formal Languages,Dr. Deepak Asrani,LT-2,0
+Wed-P3,2,2,9:55-10:50,ML2,TCS-402,Finite Automata and Formal Languages,Dr. Deepak Asrani,LT-5,0
+Thu-P1,3,0,8:00-8:55,ML2,TCS-402,Finite Automata and Formal Languages,Dr. Deepak Asrani,LT-5,0
+Fri-P2,4,1,9:00-9:55,ML2,TCS-403,Microprocessors,Dr. Vikas Tripathi,LT-5,0
+Mon-P8,0,7,3:10-4:05,ML2,TCS-403,Microprocessors,Dr. Vikas Tripathi,LT-2,0
+Wed-P6,2,5,1:00-1:55,ML2,TCS-403,Microprocessors,Dr. Vikas Tripathi,LT-2,0
+Thu-P5,3,4,12:05-1:00,ML2,TCS-403,Microprocessors,Dr. Vikas Tripathi,LT-5,0
+Mon-P7,0,6,1:55-2:50,ML2,TCS-409,Design and Analysis of Algorithms,Dr. Sribidhya Mohanty,LT-5,0
+Thu-P6,3,5,1:00-1:55,ML2,TCS-409,Design and Analysis of Algorithms,Dr. Sribidhya Mohanty,LT-5,0
+Sat-P5,5,4,12:05-1:00,ML2,TCS-409,Design and Analysis of Algorithms,Dr. Sribidhya Mohanty,LT-5,0
+Wed-P7,2,6,1:55-2:50,ML2,TCS-409,Design and Analysis of Algorithms,Dr. Sribidhya Mohanty,LT-2,0
+Thu-P2,3,1,9:00-9:55,ML2,PCS-409,DAA Lab,Dr. Hradesh Kumar,Lab-1,0
+Mon-P3,0,2,9:55-10:50,ML2,PCS-409,DAA Lab,Dr. Hradesh Kumar,LT-5,0
+Sat-P6,5,5,1:00-1:55,ML2,PCS-409,DAA Lab,Dr. Hradesh Kumar,LT-5,0
+Fri-P6,4,5,1:00-1:55,ML2,PCS-409,DAA Lab,Dr. Hradesh Kumar,Lab-1,0
+Tue-P6,1,5,1:00-1:55,ML2,PCS-408,Java Lab,Dr. Hradesh Kumar,Lab-2,1
+Thu-P7,3,6,1:55-2:50,ML2,PCS-408,Java Lab,Dr. Hradesh Kumar,Lab-2,1
+Fri-P5,4,4,12:05-1:00,ML2,PCS-403,Microprocessors Lab,Dr. Deepak Asrani,Lab-2,1
+Tue-P7,1,6,1:55-2:50,ML2,PCS-403,Microprocessors Lab,Dr. Deepak Asrani,Lab-2,1
+Fri-P3,4,2,9:55-10:50,ML2,,,Dr. Sribidhya Mohanty,Lab-2,1
+Fri-P1,4,0,8:00-8:55,ML2,,,Dr. Sribidhya Mohanty,Lab-2,1

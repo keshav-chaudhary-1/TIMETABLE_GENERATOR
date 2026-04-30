@@ -1,0 +1,205 @@
+Teacher,Day,Period,Time,Section,SubjectCode,Room
+Dr. D.R. Gangodkar,Fri,1,9:00-9:55,A,TCS-408,LT-1
+Dr. D.R. Gangodkar,Wed,4,12:05-1:00,A,TCS-408,LT-1
+Dr. D.R. Gangodkar,Thu,0,8:00-8:55,A,TCS-408,LT-1
+Dr. D.R. Gangodkar,Mon,1,9:00-9:55,A,TCS-408,LT-1
+Dr. D.R. Gangodkar,Wed,1,9:00-9:55,C,PCS-409,Lab-1
+Dr. D.R. Gangodkar,Wed,0,8:00-8:55,C,PCS-409,Lab-2
+Mr. Kireet Joshi,Wed,0,8:00-8:55,B,TCS-408,LT-1
+Mr. Kireet Joshi,Thu,3,11:10-12:05,B,TCS-408,LT-1
+Mr. Kireet Joshi,Wed,5,1:00-1:55,B,TCS-408,LT-1
+Mr. Kireet Joshi,Fri,2,9:55-10:50,B,TCS-408,LT-1
+Mr. Kireet Joshi,Wed,4,12:05-1:00,B,PCS-408,Lab-1
+Mr. Kireet Joshi,Thu,2,9:55-10:50,B,PCS-408,Lab-1
+Mr. Kireet Joshi,Mon,4,12:05-1:00,ML1,TCS-408,LT-5
+Mr. Kireet Joshi,Wed,2,9:55-10:50,ML1,TCS-408,LT-2
+Mr. Kireet Joshi,Tue,6,1:55-2:50,ML1,TCS-408,LT-1
+Mr. Kireet Joshi,Mon,5,1:00-1:55,ML1,TCS-408,Lab-1
+Mr. Kireet Joshi,Fri,0,8:00-8:55,ML1,PCS-408,Lab-1
+Mr. Kireet Joshi,Tue,3,11:10-12:05,ML1,PCS-408,Lab-2
+Dr. Jyoti Agarwal,Tue,6,1:55-2:50,C,TCS-408,LT-2
+Dr. Jyoti Agarwal,Fri,7,3:10-4:05,C,TCS-408,LT-1
+Dr. Jyoti Agarwal,Wed,7,3:10-4:05,C,TCS-408,LT-1
+Dr. Jyoti Agarwal,Tue,1,9:00-9:55,C,TCS-408,LT-1
+Dr. Jyoti Agarwal,Thu,0,8:00-8:55,C,PCS-408,Lab-2
+Dr. Jyoti Agarwal,Thu,5,1:00-1:55,C,PCS-408,Lab-1
+Dr. Jyoti Agarwal,Wed,6,1:55-2:50,D,TCS-408,LT-1
+Dr. Jyoti Agarwal,Mon,4,12:05-1:00,D,TCS-408,LT-1
+Dr. Jyoti Agarwal,Tue,2,9:55-10:50,D,TCS-408,Lab-1
+Dr. Jyoti Agarwal,Mon,0,8:00-8:55,D,TCS-408,LT-1
+Dr. Jyoti Agarwal,Mon,1,9:00-9:55,D,PCS-408,Lab-1
+Dr. Jyoti Agarwal,Tue,4,12:05-1:00,D,PCS-408,Lab-1
+Dr. Amit Kumar,Mon,6,1:55-2:50,E,TCS-408,LT-2
+Dr. Amit Kumar,Mon,3,11:10-12:05,E,TCS-408,Lab-1
+Dr. Amit Kumar,Fri,3,11:10-12:05,E,TCS-408,Lab-1
+Dr. Amit Kumar,Fri,4,12:05-1:00,E,TCS-408,LT-5
+Dr. Amit Kumar,Mon,4,12:05-1:00,E,PCS-408,Lab-1
+Dr. Amit Kumar,Sat,2,9:55-10:50,E,PCS-408,Lab-1
+Dr. Amit Kumar,Tue,0,8:00-8:55,F,TCS-408,LT-2
+Dr. Amit Kumar,Tue,6,1:55-2:50,F,TCS-408,LT-5
+Dr. Amit Kumar,Fri,6,1:55-2:50,F,TCS-408,LT-2
+Dr. Amit Kumar,Wed,6,1:55-2:50,F,TCS-408,Lab-2
+Dr. Ashish Garg,Sat,4,12:05-1:00,A,TCS-402,LT-1
+Dr. Ashish Garg,Fri,3,11:10-12:05,A,TCS-402,LT-1
+Dr. Ashish Garg,Sat,5,1:00-1:55,A,TCS-402,LT-1
+Dr. Ashish Garg,Thu,6,1:55-2:50,A,TCS-402,LT-1
+Dr. Ashish Garg,Fri,1,9:00-9:55,B,TCS-402,LT-2
+Dr. Ashish Garg,Sat,1,9:00-9:55,B,TCS-402,LT-2
+Dr. Ashish Garg,Fri,5,1:00-1:55,B,TCS-402,LT-1
+Dr. Ashish Garg,Tue,2,9:55-10:50,B,TCS-402,LT-2
+Dr. Vikas Tripathi,Tue,3,11:10-12:05,C,TCS-402,LT-5
+Dr. Vikas Tripathi,Tue,4,12:05-1:00,C,TCS-402,LT-1
+Dr. Vikas Tripathi,Sat,2,9:55-10:50,C,TCS-402,LT-1
+Dr. Vikas Tripathi,Mon,6,1:55-2:50,C,TCS-402,LT-1
+Dr. Vikas Tripathi,Sat,5,1:00-1:55,D,TCS-402,LT-2
+Dr. Vikas Tripathi,Tue,0,8:00-8:55,D,TCS-402,LT-5
+Dr. Vikas Tripathi,Sat,6,1:55-2:50,D,TCS-402,LT-5
+Dr. Vikas Tripathi,Wed,1,9:00-9:55,D,TCS-402,LT-1
+Dr. Vikas Tripathi,Fri,0,8:00-8:55,E,TCS-402,LT-2
+Dr. Vikas Tripathi,Thu,0,8:00-8:55,E,TCS-402,Lab-1
+Dr. Vikas Tripathi,Thu,1,9:00-9:55,E,TCS-402,LT-1
+Dr. Vikas Tripathi,Tue,1,9:00-9:55,E,TCS-402,LT-2
+Dr. Vikas Tripathi,Thu,6,1:55-2:50,ML1,TCS-402,LT-5
+Dr. Vikas Tripathi,Fri,5,1:00-1:55,ML1,TCS-402,Lab-2
+Dr. Vikas Tripathi,Sat,0,8:00-8:55,ML1,TCS-402,LT-5
+Dr. Vikas Tripathi,Mon,1,9:00-9:55,ML1,TCS-402,LT-2
+Dr. Vikas Tripathi,Fri,1,9:00-9:55,ML2,TCS-403,LT-5
+Dr. Vikas Tripathi,Mon,7,3:10-4:05,ML2,TCS-403,LT-2
+Dr. Vikas Tripathi,Wed,5,1:00-1:55,ML2,TCS-403,LT-2
+Dr. Vikas Tripathi,Thu,4,12:05-1:00,ML2,TCS-403,LT-5
+Dr. Piyush Agarwal,Wed,4,12:05-1:00,F,TCS-402,LT-2
+Dr. Piyush Agarwal,Fri,3,11:10-12:05,F,TCS-402,LT-2
+Dr. Piyush Agarwal,Thu,0,8:00-8:55,F,TCS-402,LT-2
+Dr. Piyush Agarwal,Thu,2,9:55-10:50,F,TCS-402,LT-2
+Dr. Hemant Singh Pokhariya,Fri,6,1:55-2:50,A,TCS-403,LT-1
+Dr. Hemant Singh Pokhariya,Thu,5,1:00-1:55,A,TCS-403,LT-1
+Dr. Hemant Singh Pokhariya,Mon,7,3:10-4:05,A,TCS-403,LT-1
+Dr. Hemant Singh Pokhariya,Sat,7,3:10-4:05,A,TCS-403,LT-1
+Dr. Abhay Sharma,Tue,7,3:10-4:05,B,TCS-403,LT-1
+Dr. Abhay Sharma,Thu,5,1:00-1:55,B,TCS-403,LT-2
+Dr. Abhay Sharma,Sat,3,11:10-12:05,B,TCS-403,LT-2
+Dr. Abhay Sharma,Tue,4,12:05-1:00,B,TCS-403,LT-2
+Dr. Abhay Sharma,Wed,1,9:00-9:55,B,PCS-403,Lab-2
+Dr. Abhay Sharma,Mon,0,8:00-8:55,B,PCS-403,Lab-1
+Dr. Abhay Sharma,Sat,1,9:00-9:55,C,TCS-403,LT-1
+Dr. Abhay Sharma,Mon,5,1:00-1:55,C,TCS-403,LT-2
+Dr. Abhay Sharma,Mon,4,12:05-1:00,C,TCS-403,LT-2
+Dr. Abhay Sharma,Thu,1,9:00-9:55,C,TCS-403,LT-5
+Dr. Gourav Verma,Fri,5,1:00-1:55,D,TCS-403,LT-2
+Dr. Gourav Verma,Wed,2,9:55-10:50,D,TCS-403,LT-1
+Dr. Gourav Verma,Mon,3,11:10-12:05,D,TCS-403,LT-2
+Dr. Gourav Verma,Wed,4,12:05-1:00,D,TCS-403,LT-5
+Dr. Gourav Verma,Sat,4,12:05-1:00,E,TCS-403,LT-2
+Dr. Gourav Verma,Sat,0,8:00-8:55,E,TCS-403,LT-2
+Dr. Gourav Verma,Wed,0,8:00-8:55,E,TCS-403,LT-2
+Dr. Gourav Verma,Tue,0,8:00-8:55,E,TCS-403,LT-1
+Dr. Gourav Verma,Tue,2,9:55-10:50,E,PCS-403,LT-1
+Dr. Gourav Verma,Thu,3,11:10-12:05,E,PCS-403,Lab-1
+Dr. Gourav Verma,Tue,4,12:05-1:00,ML1,PCS-403,Lab-2
+Dr. Gourav Verma,Fri,6,1:55-2:50,ML1,PCS-403,Lab-1
+Dr. Mridul Gupta,Mon,2,9:55-10:50,F,TCS-403,LT-2
+Dr. Mridul Gupta,Mon,1,9:00-9:55,F,TCS-403,LT-5
+Dr. Mridul Gupta,Thu,4,12:05-1:00,F,TCS-403,LT-2
+Dr. Mridul Gupta,Thu,6,1:55-2:50,F,TCS-403,LT-2
+Dr. Mridul Gupta,Fri,2,9:55-10:50,F,PCS-403,Lab-1
+Dr. Mridul Gupta,Fri,1,9:00-9:55,F,PCS-403,Lab-2
+Dr. Pradeep Juneja,Wed,0,8:00-8:55,ML1,TCS-403,LT-5
+Dr. Pradeep Juneja,Wed,3,11:10-12:05,ML1,TCS-403,LT-2
+Dr. Pradeep Juneja,Sat,3,11:10-12:05,ML1,TCS-403,LT-5
+Dr. Pradeep Juneja,Mon,0,8:00-8:55,ML1,TCS-403,LT-5
+Dr. Sribidhya Mohanty,Mon,6,1:55-2:50,ML2,TCS-409,LT-5
+Dr. Sribidhya Mohanty,Thu,5,1:00-1:55,ML2,TCS-409,LT-5
+Dr. Sribidhya Mohanty,Sat,4,12:05-1:00,ML2,TCS-409,LT-5
+Dr. Sribidhya Mohanty,Wed,6,1:55-2:50,ML2,TCS-409,LT-2
+Dr. Sribidhya Mohanty,Fri,2,9:55-10:50,ML2,,Lab-2
+Dr. Sribidhya Mohanty,Fri,0,8:00-8:55,ML2,,Lab-2
+Dr. Deepak Asrani,Tue,3,11:10-12:05,ML2,TCS-402,LT-2
+Dr. Deepak Asrani,Sat,6,1:55-2:50,ML2,TCS-402,LT-2
+Dr. Deepak Asrani,Wed,2,9:55-10:50,ML2,TCS-402,LT-5
+Dr. Deepak Asrani,Thu,0,8:00-8:55,ML2,TCS-402,LT-5
+Dr. Deepak Asrani,Fri,4,12:05-1:00,ML2,PCS-403,Lab-2
+Dr. Deepak Asrani,Tue,6,1:55-2:50,ML2,PCS-403,Lab-2
+Dr. Hradesh Kumar,Thu,1,9:00-9:55,ML2,PCS-409,Lab-1
+Dr. Hradesh Kumar,Mon,2,9:55-10:50,ML2,PCS-409,LT-5
+Dr. Hradesh Kumar,Sat,5,1:00-1:55,ML2,PCS-409,LT-5
+Dr. Hradesh Kumar,Fri,5,1:00-1:55,ML2,PCS-409,Lab-1
+Dr. Hradesh Kumar,Tue,5,1:00-1:55,ML2,PCS-408,Lab-2
+Dr. Hradesh Kumar,Thu,6,1:55-2:50,ML2,PCS-408,Lab-2
+Mr. Akshay Rajput,Wed,3,11:10-12:05,A,TCS-409,LT-1
+Mr. Akshay Rajput,Mon,2,9:55-10:50,A,TCS-409,LT-1
+Mr. Akshay Rajput,Sat,6,1:55-2:50,A,TCS-409,LT-1
+Mr. Akshay Rajput,Thu,2,9:55-10:50,A,TCS-409,LT-1
+Mr. Akshay Rajput,Mon,3,11:10-12:05,B,TCS-409,LT-1
+Mr. Akshay Rajput,Fri,0,8:00-8:55,B,TCS-409,LT-1
+Mr. Akshay Rajput,Thu,4,12:05-1:00,B,TCS-409,LT-1
+Mr. Akshay Rajput,Mon,5,1:00-1:55,B,TCS-409,LT-1
+Dr. Siddhant Thapliyal,Tue,3,11:10-12:05,A,PCS-409,Lab-1
+Dr. Siddhant Thapliyal,Tue,0,8:00-8:55,A,PCS-409,Lab-1
+Dr. Siddhant Thapliyal,Sat,5,1:00-1:55,B,PCS-409,Lab-1
+Dr. Siddhant Thapliyal,Wed,3,11:10-12:05,B,PCS-409,Lab-1
+Dr. Siddhant Thapliyal,Sat,0,8:00-8:55,C,TCS-409,LT-1
+Dr. Siddhant Thapliyal,Thu,7,3:10-4:05,C,TCS-409,LT-1
+Dr. Siddhant Thapliyal,Fri,3,11:10-12:05,C,TCS-409,LT-5
+Dr. Siddhant Thapliyal,Thu,3,11:10-12:05,C,TCS-409,LT-5
+Dr. Siddhant Thapliyal,Sat,3,11:10-12:05,D,TCS-409,LT-1
+Dr. Siddhant Thapliyal,Tue,5,1:00-1:55,D,TCS-409,LT-2
+Dr. Siddhant Thapliyal,Fri,4,12:05-1:00,D,TCS-409,LT-2
+Dr. Siddhant Thapliyal,Sat,2,9:55-10:50,D,TCS-409,LT-2
+Ms. Meenakshi Maindola,Tue,5,1:00-1:55,E,TCS-409,LT-1
+Ms. Meenakshi Maindola,Wed,6,1:55-2:50,E,TCS-409,LT-5
+Ms. Meenakshi Maindola,Tue,3,11:10-12:05,E,TCS-409,LT-1
+Ms. Meenakshi Maindola,Mon,0,8:00-8:55,E,TCS-409,LT-2
+Ms. Meenakshi Maindola,Fri,1,9:00-9:55,E,PCS-409,Lab-1
+Ms. Meenakshi Maindola,Sat,7,3:10-4:05,E,PCS-409,Lab-1
+Ms. Meenakshi Maindola,Thu,3,11:10-12:05,F,TCS-409,LT-2
+Ms. Meenakshi Maindola,Sat,1,9:00-9:55,F,TCS-409,Lab-1
+Ms. Meenakshi Maindola,Wed,1,9:00-9:55,F,TCS-409,LT-2
+Ms. Meenakshi Maindola,Sat,6,1:55-2:50,F,TCS-409,Lab-1
+Ms. Meenakshi Maindola,Sat,3,11:10-12:05,F,PCS-409,Lab-1
+Ms. Meenakshi Maindola,Mon,3,11:10-12:05,F,PCS-409,Lab-2
+Ms. Meenakshi Maindola,Fri,4,12:05-1:00,ML1,TCS-409,LT-1
+Ms. Meenakshi Maindola,Thu,1,9:00-9:55,ML1,TCS-409,LT-2
+Ms. Meenakshi Maindola,Wed,5,1:00-1:55,ML1,TCS-409,LT-5
+Ms. Meenakshi Maindola,Thu,4,12:05-1:00,ML1,TCS-409,Lab-2
+Ms. Raj Gusain,Fri,4,12:05-1:00,A,PCS-403,Lab-1
+Ms. Raj Gusain,Wed,6,1:55-2:50,A,PCS-403,Lab-1
+Ms. Raj Gusain,Thu,6,1:55-2:50,C,PCS-403,Lab-1
+Ms. Raj Gusain,Mon,2,9:55-10:50,C,PCS-403,Lab-1
+Ms. Raj Gusain,Mon,6,1:55-2:50,D,PCS-403,Lab-1
+Ms. Raj Gusain,Thu,4,12:05-1:00,D,PCS-403,Lab-1
+Dr. Rehan,Wed,0,8:00-8:55,A,PCS-408,Lab-1
+Dr. Rehan,Wed,2,9:55-10:50,A,PCS-408,Lab-1
+Mr. Abhishek Singh Chauhan,Wed,0,8:00-8:55,A,PCS-408,Lab-1
+Mr. Abhishek Singh Chauhan,Wed,2,9:55-10:50,A,PCS-408,Lab-1
+Mr. Abhishek Singh Chauhan,Mon,1,9:00-9:55,D,PCS-408,Lab-1
+Mr. Abhishek Singh Chauhan,Tue,4,12:05-1:00,D,PCS-408,Lab-1
+Ms. Srishty Varshney,Wed,4,12:05-1:00,B,PCS-408,Lab-1
+Ms. Srishty Varshney,Thu,2,9:55-10:50,B,PCS-408,Lab-1
+Ms. Anamika Sharma,Wed,1,9:00-9:55,C,PCS-409,Lab-1
+Ms. Anamika Sharma,Wed,0,8:00-8:55,C,PCS-409,Lab-2
+Ms. Anamika Sharma,Sat,4,12:05-1:00,D,PCS-409,Lab-1
+Ms. Anamika Sharma,Sat,0,8:00-8:55,D,PCS-409,Lab-1
+Mr. Sachin Bhatt,Tue,3,11:10-12:05,A,PCS-409,Lab-1
+Mr. Sachin Bhatt,Tue,0,8:00-8:55,A,PCS-409,Lab-1
+Mr. Ramji Chauhan,Sat,5,1:00-1:55,B,PCS-409,Lab-1
+Mr. Ramji Chauhan,Wed,3,11:10-12:05,B,PCS-409,Lab-1
+Mr. Ramji Chauhan,Sat,4,12:05-1:00,D,PCS-409,Lab-1
+Mr. Ramji Chauhan,Sat,0,8:00-8:55,D,PCS-409,Lab-1
+Ms. Ayushi,Thu,0,8:00-8:55,C,PCS-408,Lab-2
+Ms. Ayushi,Thu,5,1:00-1:55,C,PCS-408,Lab-1
+Ms. Simran,Mon,4,12:05-1:00,E,PCS-408,Lab-1
+Ms. Simran,Sat,2,9:55-10:50,E,PCS-408,Lab-1
+Ms. Isha Deshmukh,Fri,1,9:00-9:55,E,PCS-409,Lab-1
+Ms. Isha Deshmukh,Sat,7,3:10-4:05,E,PCS-409,Lab-1
+Ms. Isha Deshmukh,Sat,3,11:10-12:05,F,PCS-409,Lab-1
+Ms. Isha Deshmukh,Mon,3,11:10-12:05,F,PCS-409,Lab-2
+Mr. Kuldeep Nautiyal,Sat,5,1:00-1:55,ML1,PCS-409,Lab-2
+Mr. Kuldeep Nautiyal,Mon,2,9:55-10:50,ML1,PCS-409,Lab-2
+Mr. Priyanshu Rawat,Sat,5,1:00-1:55,ML1,PCS-409,Lab-2
+Mr. Priyanshu Rawat,Mon,2,9:55-10:50,ML1,PCS-409,Lab-2
+Mr. Akash Chaudhary,Fri,0,8:00-8:55,ML1,PCS-408,Lab-1
+Mr. Akash Chaudhary,Tue,3,11:10-12:05,ML1,PCS-408,Lab-2
+Dr. Vidit,Tue,5,1:00-1:55,F,PCS-408,Lab-1
+Dr. Vidit,Wed,5,1:00-1:55,F,PCS-408,Lab-1
+Mr. Navneet,Tue,5,1:00-1:55,F,PCS-408,Lab-1
+Mr. Navneet,Wed,5,1:00-1:55,F,PCS-408,Lab-1
