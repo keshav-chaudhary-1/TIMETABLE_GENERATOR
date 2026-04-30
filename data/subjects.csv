@@ -48,8 +48,6 @@ id,code,name,hours_per_week,requires_lab,section,teacher_ids,lab_teacher_ids
 46,PCS-409,DAA Lab,2,1,ML1,38|39,,
 47,PCS-408,Java Lab,2,1,ML1,1|40,,
 48,PCS-403,Microprocessors Lab,2,1,ML1,9,,
-49,XCS-202,DSA,2,0,ML1,21,,
-50,ABC-101,DS,4,1,ML1,36,,
 50,TCS-408,Programming in Java,4,0,ML2,13,
 51,TCS-402,Finite Automata and Formal Languages,4,0,ML2,5,
 52,TCS-403,Microprocessors,4,0,ML2,12,
