@@ -1,23 +1,23 @@
 Day,Period,Time,SubjectCode,SubjectName,Teachers,Room
-Sat,1,9:00-9:55,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
-Sat,0,8:00-8:55,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
-Fri,0,8:00-8:55,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
-Thu,6,1:55-2:50,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
-Sat,6,1:55-2:50,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
-Tue,5,1:00-1:55,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
-Thu,3,11:10-12:05,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
-Fri,4,12:05-1:00,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
-Mon,7,3:10-4:05,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
-Mon,3,11:10-12:05,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
-Tue,1,9:00-9:55,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
-Thu,0,8:00-8:55,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
-Tue,3,11:10-12:05,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
-Sat,7,3:10-4:05,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
-Mon,0,8:00-8:55,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
-Fri,1,9:00-9:55,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
-Mon,6,1:55-2:50,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Sachin Bhatt,Lab-1
-Thu,5,1:00-1:55,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Sachin Bhatt,Lab-1
-Mon,5,1:00-1:55,PCS-408,Java Lab,Dr. Rehan & Mr. Abhishek Singh Chauhan,Lab-1
-Tue,6,1:55-2:50,PCS-408,Java Lab,Dr. Rehan & Mr. Abhishek Singh Chauhan,Lab-1
-Sat,5,1:00-1:55,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1
-Thu,2,9:55-10:50,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1
+Fri,4,12:05-1:00,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
+Fri,5,1:00-1:55,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
+Thu,4,12:05-1:00,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
+Thu,2,9:55-10:50,TCS-408,Programming in Java,Dr. D.R. Gangodkar,LT-1
+Mon,1,9:00-9:55,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
+Thu,6,1:55-2:50,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
+Wed,3,11:10-12:05,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
+Tue,6,1:55-2:50,TCS-402,Finite Automata and Formal Languages,Dr. Ashish Garg,LT-1
+Wed,0,8:00-8:55,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
+Mon,4,12:05-1:00,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
+Sat,7,3:10-4:05,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
+Wed,7,3:10-4:05,TCS-403,Microprocessors,Dr. Hemant Singh Pokhariya,LT-1
+Sat,1,9:00-9:55,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
+Sat,6,1:55-2:50,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
+Fri,2,9:55-10:50,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
+Wed,6,1:55-2:50,TCS-409,Design and Analysis of Algorithms,Mr. Akshay Rajput,LT-1
+Wed,1,9:00-9:55,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Sachin Bhatt,Lab-1
+Sat,0,8:00-8:55,PCS-409,DAA Lab,Dr. Siddhant Thapliyal & Mr. Sachin Bhatt,Lab-1
+Tue,2,9:55-10:50,PCS-408,Java Lab,Dr. Rehan & Mr. Abhishek Singh Chauhan,Lab-1
+Thu,1,9:00-9:55,PCS-408,Java Lab,Dr. Rehan & Mr. Abhishek Singh Chauhan,Lab-1
+Mon,2,9:55-10:50,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1
+Tue,4,12:05-1:00,PCS-403,Microprocessors Lab,Ms. Raj Gusain,Lab-1
